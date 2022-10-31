@@ -1,0 +1,15 @@
+a{
+    color:blue;
+    text-align: center;
+    font-family: play;
+    font-weight: bold;
+    font-size: 30px;
+}
+a{
+    color: white;
+    background-color: dodgerblue;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 20px;
+    margin-top: -50px;
+}
